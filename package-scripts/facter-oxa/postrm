@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary facter-oxa removal steps
+# after package is uninstalled.
+#
+
+echo "facter-oxa has been uninstalled!"
+
+exit 0
